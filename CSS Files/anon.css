@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+    font-size: 20px;
+    background-color: #88CC88
+}
+
+div{
+    text-align: center;
+}
+
+.banner {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    width: 100%;
+    background-color: #2D882D;
+    border-color: #204D74;
+    height: 80px;
+    font-size: 40pt;
+    color: white;
+    }
+
+.col-lg-4{
+    font-size: 20px;
+    background-color: #2D882D;
+}
+
+.col-lg-3{
+    font-size: 20px;
+    background-color: #2D882D;
+}
+
+span {     
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    width: 100%;
+    border-color: #204D74;
+    height: 40px;
+    font-size: 15pt;
+    background-color: #AA3939;
+    box-shadow: 3px 5px 8px #fff;
+    -moz-border-radius: 10px;
+    -moz-box-shadow: 3px 5px 8px #888;
+    color: white;
+}
+
+.dropdown-toggle{
+    background-color: #2D882D;
+}
+
+.btn-primary:hover{
+    background-color: #286C12;
+}
+
+

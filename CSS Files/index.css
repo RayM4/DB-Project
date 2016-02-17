@@ -1,0 +1,51 @@
+ body {
+    background-color: #88CC88
+}
+
+div {text-align: center;}
+
+
+.banner {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    width: 100%;
+    background-color: #2D882D;
+    border-color: #204D74;
+    height: 80px;
+    font-size: 40pt;
+    color: white;
+    }
+
+.fname{
+    margin-right: 3px;
+}
+    
+.zipcode{
+    margin-left: 15px;
+}
+
+.UN{
+    margin-left: 1px;
+}
+
+.pw{
+    margin-left: 3px;
+}
+
+.dropdown-toggle{
+    background-color: #2D882D;
+}
+
+.btn-primary:hover{
+    background-color: #286C12;
+}

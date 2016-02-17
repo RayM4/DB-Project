@@ -1,0 +1,108 @@
+body {
+    background-color: #88CC88
+}
+a.btn {width: 100%;}
+a.btn {margin-top: 6px;}
+.welcome { 
+    text-align: center;
+    font-size: 30pt;
+}
+span {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    width: 100%;
+    background-color: #AA3939;
+    border-color: #204D74;
+    height: 40px;
+    font-size: 15pt;
+    color: white;
+    box-shadow: 3px 5px 8px #fff;
+    -moz-border-radius: 10px;
+    -moz-box-shadow: 3px 5px 8px #888;
+;
+    
+}
+
+.banner {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    width: 100%;
+    background-color: #2D882D;
+    border-color: #204D74;
+    height: 80px;
+    font-size: 40pt;
+    color: white;
+    }
+    
+
+.upcoming {
+    background-color: #2D882D;
+    border-color: #204D74;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15pt;
+}
+
+.pending {
+    background-color: #2D882D;
+    border-color: #204D74;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15pt;
+}
+
+.groups {
+    background-color: #2D882D;
+    border-color: #204D74;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15pt;
+}
+
+.ul{
+    margin-left: 10px;
+    color: White;
+}
+
+.rsvp{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    width: 15%;
+    height: 100%;
+    font-size: 15px;
+    color: black;
+}
+
+.leave{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    width: 17%;
+    height: 100%;
+    font-size: 15px;
+    color:black;
+}
+
+
